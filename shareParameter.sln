@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shareParameter", "shareParameter.csproj", "{4C9BFA1C-A8BB-4258-95FA-22CD33EA17EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C9BFA1C-A8BB-4258-95FA-22CD33EA17EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9BFA1C-A8BB-4258-95FA-22CD33EA17EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9BFA1C-A8BB-4258-95FA-22CD33EA17EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9BFA1C-A8BB-4258-95FA-22CD33EA17EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A683728-D78C-4DA6-ABDC-88F070D7C53E}
+	EndGlobalSection
+EndGlobal
